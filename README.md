@@ -28,7 +28,8 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 ## FLOW CHART
-<img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
+<img width="221" height="464" alt="image" src="https://github.com/user-attachments/assets/05d45fc9-7cf2-4ee3-a258-08d524b34975" />
+
 
 
 #### Program
@@ -63,9 +64,7 @@ END
 | 1203:34                 |
 
 #### Manual Calculations
-
-
-![WhatsApp Image 2025-08-22 at 11 09 00_859a1b72](https://github.com/user-attachments/assets/35e2ef35-2bb4-4713-b749-a9a75b5726a3)
+<img width="422" height="296" alt="image" src="https://github.com/user-attachments/assets/0600c520-79f4-44b1-9696-3044e4dfb1fc" />
 
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
@@ -85,7 +84,8 @@ END
 
 ## FLOWCHART
 
-<img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
+<img width="272" height="553" alt="image" src="https://github.com/user-attachments/assets/945df404-62b2-49c5-9d60-f6a43ecb4cd3" />
+
 
 
 #### Program
@@ -121,7 +121,8 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-08-22 at 11 12 59_e3662d35](https://github.com/user-attachments/assets/0c30694b-765e-4c90-84a5-d22452e566d6)
+<img width="301" height="256" alt="image" src="https://github.com/user-attachments/assets/fdbddb3f-7356-419f-a951-b03a46038699" />
+
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="640" height="480" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/3396b2e1-db3a-444c-a64d-13eae2619795" />
@@ -138,8 +139,7 @@ END
 4. Store result.
 
 ##FLOWCHART
-
-<img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
+<img width="372" height="520" alt="image" src="https://github.com/user-attachments/assets/61369b31-fd91-43db-9f2e-46b283405b3f" />
 
 
 
@@ -172,9 +172,7 @@ END
 | 1203:34              |        1207:0A              |
 
 #### Manual Calculations
-
-![WhatsApp Image 2025-08-22 at 11 27 59_e72d4686](https://github.com/user-attachments/assets/92a291b1-ac9c-4135-9a1b-9dec0edc2499)
-
+<img width="332" height="222" alt="image" src="https://github.com/user-attachments/assets/7e5495da-d7d9-4a0f-b296-a4de4fe3adf2" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -191,7 +189,8 @@ END
 3. Store result.
 
    ## FLOWCHART
-<img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
+
+<img width="254" height="402" alt="image" src="https://github.com/user-attachments/assets/f03b293a-f898-4539-aa96-96a33cf4d84b" />
 
 
 #### Program
@@ -223,8 +222,8 @@ END
 | 1203:34                  |   1206:00                   |
 
 #### Manual Calculations
+<img width="221" height="105" alt="image" src="https://github.com/user-attachments/assets/a5eba1e3-aa85-4e8b-aaeb-2dd93be8555a" />
 
-![WhatsApp Image 2025-08-22 at 11 33 31_973a8001](https://github.com/user-attachments/assets/75aa6e55-46e0-4562-8042-66aae30a8664)
 
 ## OUTPUT FROM MASM SOFTWARE
 <img width="640" height="480" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/181025e8-0da2-443a-80c3-f3cc1f619dbd" />
